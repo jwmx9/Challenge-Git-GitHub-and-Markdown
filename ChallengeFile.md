@@ -8,6 +8,8 @@
 ***
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ***
+![trappy the trap dog](https://githib.com/jwmx9/Challenge-Git-GitHub-and-Markdown/Trappy.jpg "Trappy the trap dog")
+
 https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiI4dPBmpPdAhWouVkKHfguAVkQjRx6BAgBEAU&url=http%3A%2F%2Fcelebritypetworth.com%2Fpet-worth%2F2-chainz-pets%2F&psig=AOvVaw32fdmVyg0If_4E3eqL86Fz&ust=1535664582284478
 ***
 ```javascript
