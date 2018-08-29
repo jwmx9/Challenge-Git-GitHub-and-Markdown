@@ -4,7 +4,7 @@
 ***
 [I'm an link to google](https://www.google.com)
 ***
-[I'm a link to the README file](Challenge-Git-GitHub-and-Markdown/README.md)
+[I'm a link to the README file](https://github.com/jwmx9/Challenge-Git-GitHub-and-Markdown/blob/master/README.md)
 ***
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ***
