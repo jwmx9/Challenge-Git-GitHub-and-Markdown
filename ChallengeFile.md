@@ -6,11 +6,11 @@
 ***
 [I'm a link to the README file](https://github.com/jwmx9/Challenge-Git-GitHub-and-Markdown/blob/master/README.md)
 ***
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-***
+Image that is in the directory is below:
 ![trappy the trap dog](https://github.com/jwmx9/Challenge-Git-GitHub-and-Markdown/blob/master/Trappy.jpg "Trappy the trap dog")
-
-https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiI4dPBmpPdAhWouVkKHfguAVkQjRx6BAgBEAU&url=http%3A%2F%2Fcelebritypetworth.com%2Fpet-worth%2F2-chainz-pets%2F&psig=AOvVaw32fdmVyg0If_4E3eqL86Fz&ust=1535664582284478
+***
+Web image:
+![Web image](https://static.boredpanda.com/blog/wp-content/uploads/2016/11/cute-baby-seal-waves-photographer-alexey-trofimov-russia-fb.png)
 ***
 ```javascript
 var s = "Javascript";
